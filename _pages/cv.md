@@ -35,7 +35,7 @@ author_profile: true
 ## Research & Project Experience
 
 ### Undergraduate Graduation Thesis, USTC
-**LLM-based Agent for Time series anomaly detection (To be submitted to KDD 2026)**
+**LLM-based Agentic workflow for Time series anomaly detection**
 *Sep 2025–Dec 2025*
 - Developed a human-inspired tool-augmented LLM framework for anomaly detection in time series data, integrating external tools for enhanced reasoning and analysis.
 - Achieved state-of-the-art performance, significantly outperforming strong baselines across major metrics.
